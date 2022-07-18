@@ -21,8 +21,6 @@ Python version 3.8 or higher
          path1 - Full path to the input file
          path2 - Full path to the output file
 
-To use that node PyTorch +1.7 should be there with CUDA +11.0.
-
 ### Run Server
 ~~~
 server.py --ip 127.0.0.1 --port 49322 --queue_size 5
